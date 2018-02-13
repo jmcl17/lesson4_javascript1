@@ -2,7 +2,7 @@
           Course:  Web Application Development
           Assignment:  Lesson 4 (JavaScript 1)
           Author: Julia McLane 
-          Date: February 12 2018
+          Date: February 13 2018
           Filename: expenseCalculator.js
         *************************************************************************************************/
      

@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-February 11, 2018
+February 13, 2018
 
 ### Student Name:  
 Julia McLane
 
 ### Project Description:
-This project introduced me to JavaScript and taught me some of the basics of this langauge
+This project introduced me to JavaScript and taught me some of the basics of this langauge.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://jmcl17.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use the getElementById function in JavaScript.
+2. I learned that JavaScript can calculate math by using some math functions that are already pre-written. 
+3. I learned that objects can be chained together so that items can be linked together in one area instead of it being spread out over the code.
 
 
 
