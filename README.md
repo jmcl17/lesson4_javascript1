@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 11, 2018
 
 ### Student Name:  
-(First and Last Name)
+Julia McLane
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project introduced me to JavaScript and taught me some of the basics of this langauge
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
